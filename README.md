@@ -1,4 +1,4 @@
-# little_work with pandas ,csv files and matploplib
+# Little work with pandas ,csv files and matploplib
 This is a little piece of my code, 
 mainly the code do:
 Take a csv file to pd and work with creating different columns
